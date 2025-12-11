@@ -1,0 +1,16 @@
+I have done all the projects in a one applicaiton 
+
+1) scratching application have also done there & the other projects which sir has assigned also present in the same(this) applicaiton
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ravi4125/ReactProjects.git
+git push -u origin main
+
+git init
+git add .
+git commit -m "new things added"
+git push
